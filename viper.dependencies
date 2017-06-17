@@ -3,7 +3,7 @@
       "repository":"android_kernel_motorola_msm8916",
       "target_path":"kernel/motorola/msm8916",
       "branch":"nougat",
-      "remote":"viperD"
+      "remote":"viper-devices"
    },
    {
       "repository":"LineageOS/android_device_qcom_common",
