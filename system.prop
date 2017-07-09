@@ -33,6 +33,18 @@ ro.bluetooth.sap=true
 camera2.portability.force_api=1
 media.stagefright.legacyencoder=true
 media.stagefright.less-secure=true
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.hprof.vid.bps=8000000
+ro.media.capture.maxres=8m
+ro.media.capture.fast.fps=4
+ro.media.capture.slow.fps=120
+ro.media.capture.flash=led
+ro.media.capture.flashMinV=3300000
+ro.media.capture.torchIntensity=40
+ro.media.capture.flashIntensity=70
+ro.media.panorama.defres=3264x1840
+ro.media.panorama.frameres=1280x720
+ro.camcorder.videoModes=true
 
 # Display
 ro.opengles.version=196608
